@@ -24,13 +24,13 @@
             <div class="row">
                 <div style="width: 300px;" class="center-block">
                    <a href="{{ .Params.booking.url }}">
-                    <div class="btn btn-success btn-lg editable" type="button">{{ .Params.booking.text  }}</div>
+                    <div class="btn btn-success btn-lg" type="button">{{ .Params.booking.text  }}</div>
                     </a>
                 </div>
             </div>
-            <h1 class="editable">{{ .Params.about.heading }}</h1>
-              <p class="editable">{{ .Params.about.copy  }}</p>
-              <p class="editable"><b>email</b>: <a href="mailto:{{ .Params.contacts.email }}">{{ .Params.contacts.email }}</a><br><b>phone</b>: {{ .Params.contacts.phone }}<br><b>or</b>&nbsp; <a href="{{ .Params.booking.url }}">&nbsp;{{ .Params.booking.text }}</a></p>
+            <h1>{{ .Params.about.heading }}</h1>
+              <p>{{ .Params.about.copy  }}</p>
+              <p><b>email</b>: <a href="mailto:{{ .Params.contacts.email }}">{{ .Params.contacts.email }}</a><br><b>phone</b>: {{ .Params.contacts.phone }}<br><b>or</b>&nbsp; <a href="{{ .Params.booking.url }}">&nbsp;{{ .Params.booking.text }}</a></p>
               <p><strong>We are located at:</strong> {{ .Params.contacts.address }}</p>
               <p><a class="map" target="_blank" href="{{ .Params.map }}">Live Map</a></p>       
           </div>
