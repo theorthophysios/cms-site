@@ -10,13 +10,13 @@ booking:
   text: Book a consultation online now
 about:
   heading: About our Service
-  copy: "**OrthoPhysio** offers injury management, surgery preparation and
+  copy: OrthoPhysio offers injury management, surgery preparation and
     rehabilitation Physiotherapy as well as planning and advice to help you
     prevent or delay surgery. Preparation for orthopaedic surgery and recovery
     from surgery is our focus. Knee, hip, ankle, upper limb and spinal surgery
     rehabilitation is delivered in a way that meets your needs. I maintain close
     communication with your medical team. This way your health care team is
-    connected and working towards the best outcomes for you."
+    connected and working towards the best outcomes for you.
 map: https://www.google.com.au/maps/place/Ortho+Physio/@-27.4923438,153.0633322,17z/data=!4m5!3m4!1s0x6b915bb5a34b94f3:0xa1c099e0faef886b!8m2!3d-27.4921476!4d153.0630597
 published: true
 ---
