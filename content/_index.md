@@ -6,7 +6,7 @@ contacts:
   email: info@orthophysio.com.au
   address: 3/402 Old Cleveland Rd, Coorparoo QLD 4151
 booking:
-  url: https://auappts.gensolve.com/the_orthophysios/home/index
+  url: https://auappts.gensolve.com/orthophysio/home/index
   text: Book a consultation online now
 about:
   heading: About our Service
