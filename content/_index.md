@@ -13,9 +13,10 @@ map:
   maptext: See our location on Google Maps
 published: true
 ---
-
 ## About our Services
 
 OrthoPhysio offers injury management, surgery preparation and rehabilitation Physiotherapy as well as planning and advice to help you prevent or delay surgery.
 
-Preparation for orthopaedic surgery and recovery from surgery is our focus. Knee, hip, ankle, upper limb and spinal surgery rehabilitation is delivered in a way that meets your needs. I maintain close communication with your medical team. This way your health care team is connected and working towards the best outcomes for you.
+Preparation for orthopaedic surgery and recovery from surgery is our focus. Knee, hip, ankle, upper limb and spinal surgery rehabilitation is delivered in a way that meets your needs.
+
+I maintain close communication with your medical team. This way your health care team is connected and working towards the best outcomes for you.
