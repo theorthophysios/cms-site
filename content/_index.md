@@ -1,6 +1,6 @@
 ---
 title: Physiotherapists Brisbane 4151 - OrthoPhysios - P
-logo: images/newlogo.jpg
+logo: /newlogo.jpg
 contacts:
   phone: 07 3088 6458
   email: info@orthophysio.com.au
