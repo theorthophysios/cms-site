@@ -33,7 +33,7 @@
               <div style="margin-bottom: 2em;">{{ .Content }}</div>
               <div><b>email</b>: <a href="mailto:{{ .Params.contacts.email }}">{{ .Params.contacts.email }}</a><br><b>phone</b>: {{ .Params.contacts.phone }}<br><b>or</b>&nbsp; <a href="{{ .Params.booking.url }}">&nbsp;{{ .Params.booking.text }}</a></div>
               <div><strong>We are located at:</strong> {{ .Params.contacts.address }}</div>
-              <div><a class="map" target="_blank" href="{{ .Params.map }}">Live Map</a></div>       
+              <div><a class="map" target="_blank" href="{{ .Params.map.mapurl }}">{{ .Params.map.maptext }}</a></div>       
           </div>
         </div>
       </div>

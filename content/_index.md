@@ -8,7 +8,9 @@ contacts:
 booking:
   url: https://auappts.gensolve.com/orthophysio/home/index
   text: Book a consultation online now
-map: https://www.google.com.au/maps/place/Ortho+Physio/@-27.4923438,153.0633322,17z/data=!4m5!3m4!1s0x6b915bb5a34b94f3:0xa1c099e0faef886b!8m2!3d-27.4921476!4d153.0630597
+map: 
+  mapurl: https://www.google.com.au/maps/place/Ortho+Physio/@-27.4923438,153.0633322,17z/data=!4m5!3m4!1s0x6b915bb5a34b94f3:0xa1c099e0faef886b!8m2!3d-27.4921476!4d153.0630597
+  maptext: 'Live Map'
 published: true
 ---
 
