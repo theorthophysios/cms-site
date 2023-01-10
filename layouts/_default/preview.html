@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>{{ .Params.title }}</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!--<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.3.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">-->
+    <link href="/css/styles.css" rel="stylesheet" type="text/css">
+    <!--<link href="css/top.css" rel="stylesheet" type="text/css">-->
+    <link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon.png">
+    <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+    <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+    <link rel="manifest" href="/site.webmanifest">
+    <link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+    <meta name="msapplication-TileColor" content="#da532c">
+    <meta name="theme-color" content="#ffffff">
+
+</head>
+  <body>
+    <div class="section">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-12">
+            <img style="padding-top:12px;width:100%;height:auto;" class="img-responsiv" src="/images/{{ .Params.logo }}"/>
+            <!--<div class="row">-->
+                <div style="margin-bottom:2em;width: 300px;" class="center-block">
+                   <a href="{{ .Params.booking.url }}">
+                    <div class="btn btn-success btn-lg" type="button">{{ .Params.booking.text  }}</div>
+                    </a>
+                </div>
+            <!--</div>-->
+            
+              <div style="margin-bottom: 2em;">{{ .Content }}</div>
+              <div><b>email</b>: <a href="mailto:{{ .Params.contacts.email }}">{{ .Params.contacts.email }}</a><br><b>phone</b>: {{ .Params.contacts.phone }}<br><b>or</b>&nbsp; <a href="{{ .Params.booking.url }}">&nbsp;{{ .Params.booking.text }}</a></div>
+              <div><strong>We are located at:</strong> {{ .Params.contacts.address }}</div>
+              <div><a class="map" target="_blank" href="{{ .Params.map.mapurl }}">{{ .Params.map.maptext }}</a></div>       
+          </div>
+        </div>
+      </div>
+    </div>
+
+  
+
+
+</body></html>
