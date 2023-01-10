@@ -13,6 +13,8 @@ map:
   maptext: See our location on Google Maps
 published: true
 ---
+![Dr Michael Bourke PhD BPhty APAM](/drmikebourke.jpg "Dr Michael Bourke PhD BPhty APAM")
+
 ## About our Services
 
 OrthoPhysio offers injury management, surgery preparation and rehabilitation Physiotherapy as well as planning and advice to help you prevent or delay surgery.
