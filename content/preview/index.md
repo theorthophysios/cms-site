@@ -25,6 +25,8 @@ I maintain close communication with your medical team. This way your health care
 
 ### What is 'Injury Management'?
 
+**A﻿n advice snippet by Dr Mark Longley**
+
 Injury management refers to the process of caring for and treating an injury in order to facilitate healing and restore function. This may involve a variety of interventions, such as exercise, manual therapy, and the use of assistive devices or medication. 
 
 The goal of injury management is to help the individual return to their pre-injury level of function as quickly and safely as possible, while also minimizing the risk of future injuries. 
@@ -39,8 +41,6 @@ A physiotherapist may be involved in injury management by assessing the injury, 
 2. Education: The physiotherapist can provide the patient with information about the surgery, including what to expect during the procedure and in the recovery period. This may include information about pain management, wound care, and any precautions or restrictions the patient may need to follow after surgery.
 3. Pre-surgical conditioning: Depending on the specific surgery, the physiotherapist may recommend exercises or other interventions to help the patient strengthen the muscles around the surgical site and improve their overall physical condition. This can help the patient recover more quickly after surgery.
 4. Coordination with the surgical team: The physiotherapist may work closely with the patient's surgeon and other members of the surgical team to ensure that the patient is well-prepared for the surgery and has a smooth recovery.
-
-
 
 ### Recovering from Surgery. W﻿hat is the role of Physiotherapy?
 
