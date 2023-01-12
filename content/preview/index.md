@@ -25,8 +25,6 @@ I maintain close communication with your medical team. This way your health care
 
 ### What is 'Injury Management'?
 
-**A﻿n advice snippet by Dr Mark Longley**
-
 Injury management refers to the process of caring for and treating an injury in order to facilitate healing and restore function. This may involve a variety of interventions, such as exercise, manual therapy, and the use of assistive devices or medication. 
 
 The goal of injury management is to help the individual return to their pre-injury level of function as quickly and safely as possible, while also minimizing the risk of future injuries. 
