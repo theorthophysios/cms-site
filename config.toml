@@ -4,3 +4,7 @@
   title = 'Orthophysio'
   
 disableKinds = ["taxonomy"]
+
+[markup.goldmark.parser.attribute]
+block = true
+title = true
